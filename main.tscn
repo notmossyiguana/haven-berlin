@@ -4,6 +4,7 @@
 [ext_resource type="Script" uid="uid://lndhnyhm0s1p" path="res://player.gd" id="2_h2yge"]
 [ext_resource type="Texture2D" uid="uid://cprkavwn3iv3f" path="res://daven-idle.png" id="3_1bvp3"]
 [ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
+[ext_resource type="Texture2D" uid="uid://d0mlorb7y50l4" path="res://bottom of the tree.jpg" id="5_lquwl"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
 texture = ExtResource("1_0xm2m")
@@ -1102,3 +1103,10 @@ position = Vector2(222, -842)
 
 [node name="Bouncy Cloud7" parent="." unique_id=1027014277 instance=ExtResource("4_lquwl")]
 position = Vector2(580, -1104)
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=160763516]
+offset_left = 940.0
+offset_top = 328.0
+offset_right = 2860.0
+offset_bottom = 1408.0
+texture = ExtResource("5_lquwl")

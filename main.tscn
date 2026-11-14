@@ -1077,3 +1077,6 @@ texture = ExtResource("1_ig7tw")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=1666852203]
 position = Vector2(788.5, 429)
 shape = SubResource("RectangleShape2D_smm7m")
+
+[node name="Camera2D" type="Camera2D" parent="Player" unique_id=540146785]
+position = Vector2(790, 433)

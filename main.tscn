@@ -7,6 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://dpqlq8wrem2gg" path="res://top of the tree.jpg" id="3_272bh"]
 [ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
 [ext_resource type="Texture2D" uid="uid://d0mlorb7y50l4" path="res://bottom of the tree.jpg" id="5_lquwl"]
+[ext_resource type="PackedScene" uid="uid://b2acyoqmke2su" path="res://static_body_2d.tscn" id="7_5vw27"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
 texture = ExtResource("1_0xm2m")
@@ -1779,10 +1780,13 @@ shape = SubResource("RectangleShape2D_smm7m")
 position = Vector2(790, 433)
 zoom = Vector2(1.5, 1.5)
 limit_left = 385
-limit_top = -3264
+limit_top = -5795
 limit_right = 1351
 limit_bottom = 752
 limit_smoothed = true
+
+[node name="StaticBody2D" parent="Player" unique_id=1516454722 instance=ExtResource("7_5vw27")]
+position = Vector2(1112, -564)
 
 [node name="Bouncy Cloud" parent="." unique_id=1679390177 instance=ExtResource("4_lquwl")]
 position = Vector2(463, 522)
@@ -2370,6 +2374,94 @@ offset_bottom = -4129.0005
 rotation = 0.052993607
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
+[node name="ColorRect93" type="ColorRect" parent="." unique_id=948701405]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1367.0001
+offset_top = -4522.0
+offset_right = 1546.6641
+offset_bottom = -4248.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect94" type="ColorRect" parent="." unique_id=2063005347]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1366.0
+offset_top = -4681.0
+offset_right = 1545.664
+offset_bottom = -4407.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect95" type="ColorRect" parent="." unique_id=1245868223]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1608.0
+offset_top = -4640.0
+offset_right = 1787.664
+offset_bottom = -4366.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect96" type="ColorRect" parent="." unique_id=2145549067]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1608.0
+offset_top = -4640.0
+offset_right = 1787.664
+offset_bottom = -4366.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect97" type="ColorRect" parent="." unique_id=1424928833]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 155.0
+offset_top = -4590.0005
+offset_right = 334.664
+offset_bottom = -4316.0005
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect98" type="ColorRect" parent="." unique_id=92517552]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 191.00002
+offset_top = -3795.0
+offset_right = 370.664
+offset_bottom = -3521.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect99" type="ColorRect" parent="." unique_id=822476455]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 147.0
+offset_top = -3141.0
+offset_right = 326.664
+offset_bottom = -2867.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect100" type="ColorRect" parent="." unique_id=649119366]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 147.0
+offset_top = -3141.0
+offset_right = 326.664
+offset_bottom = -2867.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
 [node name="ColorRect92" type="ColorRect" parent="." unique_id=483494062]
 z_index = -3
 anchors_preset = -1
@@ -2675,6 +2767,16 @@ color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
+offset_left = 157.0
+offset_top = -2180.0
+offset_right = 336.664
+offset_bottom = -1906.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect101" type="ColorRect" parent="." unique_id=970153239]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
 offset_left = 172.0
 offset_top = -2994.0
 offset_right = 351.664
@@ -2914,10 +3016,10 @@ position = Vector2(399, -4711)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 160.0
-offset_top = -3921.0
-offset_right = 339.664
-offset_bottom = -3647.0
+offset_left = 176.0
+offset_top = -3962.0
+offset_right = 355.664
+offset_bottom = -3688.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
 [node name="ColorRect83" type="ColorRect" parent="." unique_id=568337520]

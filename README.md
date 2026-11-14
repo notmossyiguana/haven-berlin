@@ -28,4 +28,9 @@ It was made from <a href="https://github.com/notmossyiguana">mossy</a> and from 
 The background music was composed in BeepBox by mossy
 
 Ensoniq Trumpet Fanfare by TheSoundLibrary on https://freesound.org/people/TheSoundLibrary/sounds/850748/
+<br>
 laundry;fluff.wav by Abir19 on https://freesound.org/people/Abir19/sounds/629508/
+<br>
+Assets from Canva Stock Images
+<br>
+The Daven player sprite is from the Official Haven Website https://haven.hackclub.com/ by katsu

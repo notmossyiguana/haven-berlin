@@ -1652,7 +1652,7 @@ shape = SubResource("RectangleShape2D_smm7m")
 position = Vector2(790, 433)
 
 [node name="Bouncy Cloud" parent="." unique_id=1679390177 instance=ExtResource("4_lquwl")]
-position = Vector2(425, 440)
+position = Vector2(433, 472)
 
 [node name="Bouncy Cloud2" parent="." unique_id=493421154 instance=ExtResource("4_lquwl")]
 position = Vector2(193, 194)

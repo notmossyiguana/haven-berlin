@@ -7,7 +7,6 @@
 [ext_resource type="Texture2D" uid="uid://dpqlq8wrem2gg" path="res://top of the tree.jpg" id="3_272bh"]
 [ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
 [ext_resource type="Texture2D" uid="uid://d0mlorb7y50l4" path="res://bottom of the tree.jpg" id="5_lquwl"]
-[ext_resource type="Texture2D" uid="uid://fgvh5ca45sw8" path="res://regular cloud.png" id="8_5vw27"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
 texture = ExtResource("1_0xm2m")
@@ -1596,9 +1595,6 @@ sources/0 = SubResource("TileSetAtlasSource_h2yge")
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_smm7m"]
 size = Vector2(42, 42)
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_iuuad"]
-size = Vector2(154, 17)
-
 [node name="Node" type="Node" unique_id=1795916366]
 
 [node name="TextureRect" type="TextureRect" parent="." unique_id=160763516]
@@ -1770,6 +1766,7 @@ tile_set = SubResource("TileSet_smm7m")
 script = ExtResource("2_h2yge")
 
 [node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1695342330]
+z_index = 4096
 position = Vector2(788, 429.25)
 scale = Vector2(0.5937502, 0.57421887)
 texture = ExtResource("3_1bvp3")
@@ -2661,22 +2658,8 @@ position = Vector2(474, -2942)
 [node name="Bouncy Cloud24" parent="." unique_id=329054400 instance=ExtResource("4_lquwl")]
 position = Vector2(398, -2460)
 
-<<<<<<< HEAD
-[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1961217507]
-position = Vector2(316, -107)
-
-[node name="Sprite2D" type="Sprite2D" parent="StaticBody2D" unique_id=575552027]
-position = Vector2(0, 8)
-scale = Vector2(0.09218751, 0.08333334)
-texture = ExtResource("8_5vw27")
-
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=601834462]
-position = Vector2(-4, 1.5)
-shape = SubResource("RectangleShape2D_iuuad")
-=======
 [node name="Bouncy Cloud33" parent="." unique_id=2027495885 instance=ExtResource("4_lquwl")]
 position = Vector2(866, -2719)
->>>>>>> e472060ca644ad10d305433465884db30b96e121
 
 [node name="ColorRect67" type="ColorRect" parent="." unique_id=1753559977]
 z_index = -3

@@ -2,6 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://c4uvci0wr2v8t" path="res://images.png" id="1_0xm2m"]
 [ext_resource type="Script" uid="uid://lndhnyhm0s1p" path="res://player.gd" id="2_h2yge"]
+[ext_resource type="Texture2D" uid="uid://cprkavwn3iv3f" path="res://daven-idle.png" id="3_1bvp3"]
 [ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
@@ -1057,7 +1058,7 @@ physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_h2yge")
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_smm7m"]
-size = Vector2(65, 64)
+size = Vector2(42, 42)
 
 [node name="Node" type="Node" unique_id=1795916366]
 
@@ -1072,9 +1073,10 @@ script = ExtResource("2_h2yge")
 [node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1695342330]
 position = Vector2(788, 429.25)
 scale = Vector2(0.5937502, 0.57421887)
+texture = ExtResource("3_1bvp3")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=1666852203]
-position = Vector2(788.5, 429)
+position = Vector2(788, 428)
 shape = SubResource("RectangleShape2D_smm7m")
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=540146785]

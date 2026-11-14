@@ -3,6 +3,8 @@
 [ext_resource type="Texture2D" uid="uid://c4uvci0wr2v8t" path="res://images.png" id="1_0xm2m"]
 [ext_resource type="Texture2D" uid="uid://bmul6xh4kt3vk" path="res://icon.svg" id="1_ig7tw"]
 [ext_resource type="Script" uid="uid://lndhnyhm0s1p" path="res://player.gd" id="2_h2yge"]
+[ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
+[ext_resource type="Script" uid="uid://cxmmt8kgcws7u" path="res://bouncy_cloud.gd" id="5_7mycd"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
 texture = ExtResource("1_0xm2m")
@@ -1080,3 +1082,7 @@ shape = SubResource("RectangleShape2D_smm7m")
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=540146785]
 position = Vector2(790, 433)
+
+[node name="Bouncy Cloud" parent="." unique_id=1679390177 instance=ExtResource("4_lquwl")]
+position = Vector2(425, 440)
+script = ExtResource("5_7mycd")

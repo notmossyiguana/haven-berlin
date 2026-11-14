@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://o0g6o3bvb5cm"]
+
+[ext_resource type="Texture2D" uid="uid://d2gc2kv0c08wp" path="res://bouncy cloud.png" id="1_d6mu8"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_iuuad"]
+size = Vector2(153.5, 13)
+
+[node name="Bouncy Cloud" type="Area2D" unique_id=1679390177]
+
+[node name="Cloud" type="Sprite2D" parent="." unique_id=331795258]
+position = Vector2(208, 135.99998)
+scale = Vector2(0.09270834, 0.08518516)
+texture = ExtResource("1_d6mu8")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=11716145]
+position = Vector2(206, 128.99998)
+shape = SubResource("RectangleShape2D_iuuad")

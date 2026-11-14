@@ -1721,6 +1721,15 @@ position = Vector2(606, -540)
 [node name="Bouncy Cloud6" parent="." unique_id=2033553099 instance=ExtResource("4_lquwl")]
 position = Vector2(222, -842)
 
+[node name="Bouncy Cloud8" parent="." unique_id=1767465478 instance=ExtResource("4_lquwl")]
+position = Vector2(320, -1301)
+
+[node name="Bouncy Cloud9" parent="." unique_id=566599881 instance=ExtResource("4_lquwl")]
+position = Vector2(950, -1554)
+
+[node name="Bouncy Cloud10" parent="." unique_id=1369829181 instance=ExtResource("4_lquwl")]
+position = Vector2(250, -1938)
+
 [node name="Bouncy Cloud7" parent="." unique_id=1027014277 instance=ExtResource("4_lquwl")]
 position = Vector2(684, -1054)
 

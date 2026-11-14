@@ -1,5 +1,5 @@
 
-# Our game:
+# Check it out here: https://253-mathilde.itch.io/davens-journey 
 <img width="1920" height="480" alt="heading haven game" src="https://github.com/user-attachments/assets/2b1040c6-57a4-4647-9f4a-7698510afe3b" />
 
 <div data-importer="image" align="center">
@@ -33,4 +33,5 @@ laundry;fluff.wav by Abir19 on https://freesound.org/people/Abir19/sounds/629508
 <br>
 Assets from Canva Stock Images
 <br>
-The Daven player sprite is from the Official Haven Website https://haven.hackclub.com/ by katsu
+The Daven player sprite is from the Official Haven Website https://haven.hackclub.com/ by katsu <br>
+The Hack Club logo in the laptop in Haven's house is from the official Hack Club site https://de.hackclub.com/brand

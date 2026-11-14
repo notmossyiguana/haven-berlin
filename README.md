@@ -1,5 +1,8 @@
 
-# Daven's Journey
+# Our game:
+
+<img width="1920" height="480" alt="heading haven game" src="https://github.com/user-attachments/assets/2b1040c6-57a4-4647-9f4a-7698510afe3b" />
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="500" src="top of the tree.jpg"/>
 </div>
@@ -13,8 +16,13 @@ You can explore Davens home in the end. <br>
 <br>
 <img width="1920" height="480" alt="controls haven game" src="https://github.com/user-attachments/assets/68bfbe7c-eb21-49bb-b0cc-0f40c3874966" />
 <br>
+The movement is super easy to understand: <br>
 
 ### WASD or Arrow Keys for movement
 ### Space key, W or Up Arrow to jump
 
+<br>
 <img width="1920" height="480" alt="developer haven game" src="https://github.com/user-attachments/assets/1321ae79-bbec-4404-bce5-e08302ad71b2" />
+
+This game was made for the Hackathon Haven from Hack Club. <br>
+It was made from <a href="https://github.com/notmossyiguana">mossy</a> and from <a href="https://github.com/253-Mathilde"> 253-Mathilde </a>.

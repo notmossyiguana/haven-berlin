@@ -2,6 +2,6 @@
 
 [ext_resource type="AudioStream" uid="uid://i2k7r06sw86t" path="res://BeepBox-Song.wav" id="1_d2dya"]
 
-[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" unique_id=1613572969]
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" unique_id=1209746607]
 stream = ExtResource("1_d2dya")
 autoplay = true

@@ -1600,9 +1600,9 @@ size = Vector2(42, 42)
 [node name="TextureRect" type="TextureRect" parent="." unique_id=160763516]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 173.0
+offset_left = 227.0
 offset_top = 95.0
-offset_right = 1320.0
+offset_right = 1374.0
 offset_bottom = 750.0
 texture = ExtResource("5_lquwl")
 expand_mode = 2
@@ -1611,10 +1611,10 @@ stretch_mode = 6
 [node name="TextureRect2" type="TextureRect" parent="." unique_id=509211498]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 263.0
-offset_top = -259.0
-offset_right = 1254.0
-offset_bottom = 98.0
+offset_left = 319.0
+offset_top = -254.0
+offset_right = 1310.0
+offset_bottom = 103.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1623,10 +1623,10 @@ flip_h = true
 [node name="TextureRect3" type="TextureRect" parent="." unique_id=26182255]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 286.0
-offset_top = -599.0
-offset_right = 1268.0
-offset_bottom = -251.0
+offset_left = 342.0
+offset_top = -594.0
+offset_right = 1324.0
+offset_bottom = -246.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1635,10 +1635,10 @@ flip_h = true
 [node name="TextureRect4" type="TextureRect" parent="." unique_id=1141890090]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 311.0
-offset_top = -891.0
-offset_right = 1277.0
-offset_bottom = -593.0
+offset_left = 367.0
+offset_top = -886.0
+offset_right = 1333.0
+offset_bottom = -588.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1647,10 +1647,10 @@ flip_h = true
 [node name="TextureRect5" type="TextureRect" parent="." unique_id=406655670]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 333.0
-offset_top = -1127.0
-offset_right = 1279.0
-offset_bottom = -884.0
+offset_left = 389.0
+offset_top = -1122.0
+offset_right = 1335.0
+offset_bottom = -879.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1659,10 +1659,10 @@ flip_h = true
 [node name="TextureRect6" type="TextureRect" parent="." unique_id=462527499]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 335.0
-offset_top = -1372.0
-offset_right = 1296.0
-offset_bottom = -1124.0
+offset_left = 391.0
+offset_top = -1367.0
+offset_right = 1352.0
+offset_bottom = -1119.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1671,10 +1671,10 @@ flip_h = true
 [node name="TextureRect7" type="TextureRect" parent="." unique_id=1115926654]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 335.0
-offset_top = -1566.0
-offset_right = 1312.0
-offset_bottom = -1367.0
+offset_left = 391.0
+offset_top = -1561.0
+offset_right = 1368.0
+offset_bottom = -1362.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1683,10 +1683,10 @@ flip_h = true
 [node name="TextureRect8" type="TextureRect" parent="." unique_id=1398251185]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 342.0
-offset_top = -1752.0
-offset_right = 1319.0
-offset_bottom = -1553.0
+offset_left = 398.0
+offset_top = -1747.0
+offset_right = 1375.0
+offset_bottom = -1548.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1695,10 +1695,10 @@ flip_h = true
 [node name="TextureRect9" type="TextureRect" parent="." unique_id=1425924523]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 335.0
-offset_top = -1949.0
-offset_right = 1324.0
-offset_bottom = -1747.0
+offset_left = 391.0
+offset_top = -1944.0
+offset_right = 1380.0
+offset_bottom = -1742.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1706,10 +1706,10 @@ stretch_mode = 6
 [node name="TextureRect10" type="TextureRect" parent="." unique_id=45441319]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 329.0
-offset_top = -2151.0
-offset_right = 1318.0
-offset_bottom = -1947.0
+offset_left = 385.0
+offset_top = -2146.0
+offset_right = 1374.0
+offset_bottom = -1942.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1717,10 +1717,10 @@ stretch_mode = 6
 [node name="TextureRect11" type="TextureRect" parent="." unique_id=1940850018]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 321.0
-offset_top = -2347.0
-offset_right = 1315.0
-offset_bottom = -2130.0
+offset_left = 377.0
+offset_top = -2342.0
+offset_right = 1371.0
+offset_bottom = -2125.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1728,10 +1728,10 @@ stretch_mode = 6
 [node name="TextureRect12" type="TextureRect" parent="." unique_id=1902797016]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 311.0
-offset_top = -2540.0
-offset_right = 1311.0
-offset_bottom = -2318.0
+offset_left = 367.0
+offset_top = -2535.0
+offset_right = 1367.0
+offset_bottom = -2313.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1739,10 +1739,10 @@ stretch_mode = 6
 [node name="TextureRect13" type="TextureRect" parent="." unique_id=483734565]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 315.0
-offset_top = -2717.0
-offset_right = 1296.0
-offset_bottom = -2515.0
+offset_left = 371.0
+offset_top = -2712.0
+offset_right = 1352.0
+offset_bottom = -2510.0
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -1750,10 +1750,10 @@ stretch_mode = 6
 [node name="TextureRect14" type="TextureRect" parent="." unique_id=885129203]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 308.0
-offset_top = -3260.0
-offset_right = 1292.0
-offset_bottom = -2711.0
+offset_left = 364.0
+offset_top = -3255.0
+offset_right = 1348.0
+offset_bottom = -2706.0
 texture = ExtResource("3_272bh")
 expand_mode = 1
 
@@ -1856,9 +1856,9 @@ color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 78.0
+offset_left = 122.0
 offset_top = -403.0
-offset_right = 257.664
+offset_right = 301.664
 offset_bottom = -129.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
@@ -1866,9 +1866,9 @@ color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 104.0
+offset_left = 148.0
 offset_top = -660.0
-offset_right = 283.664
+offset_right = 327.664
 offset_bottom = -386.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
@@ -1876,9 +1876,9 @@ color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 100.0
+offset_left = 144.0
 offset_top = -853.0
-offset_right = 279.664
+offset_right = 323.664
 offset_bottom = -579.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
@@ -1896,10 +1896,10 @@ color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 130.0
-offset_top = -1308.0
-offset_right = 309.664
-offset_bottom = -1034.0
+offset_left = 150.0
+offset_top = -1315.0
+offset_right = 329.664
+offset_bottom = -1041.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
 [node name="ColorRect7" type="ColorRect" parent="." unique_id=128526648]
@@ -1926,9 +1926,9 @@ color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 131.0
+offset_left = 172.0
 offset_top = -2034.0
-offset_right = 310.664
+offset_right = 351.664
 offset_bottom = -1760.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
@@ -1936,9 +1936,9 @@ color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 123.0
+offset_left = 162.0
 offset_top = -2243.0
-offset_right = 302.664
+offset_right = 341.664
 offset_bottom = -1969.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
@@ -2082,14 +2082,277 @@ offset_right = 1493.664
 offset_bottom = -2611.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
+[node name="ColorRect34" type="ColorRect" parent="." unique_id=1846087263]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1314.0
+offset_top = -2885.0
+offset_right = 1493.664
+offset_bottom = -2611.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
 [node name="ColorRect23" type="ColorRect" parent="." unique_id=61045897]
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-offset_left = 1324.0
-offset_top = -2915.0
-offset_right = 1503.664
-offset_bottom = -2641.0
+offset_left = 1316.0
+offset_top = -2695.0
+offset_right = 1495.664
+offset_bottom = -2421.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect35" type="ColorRect" parent="." unique_id=817429693]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1298.0
+offset_top = -2570.0002
+offset_right = 1477.664
+offset_bottom = -2296.0002
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect36" type="ColorRect" parent="." unique_id=2128260567]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1303.0
+offset_top = -2356.0
+offset_right = 1482.664
+offset_bottom = -2082.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect37" type="ColorRect" parent="." unique_id=197323965]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1319.0001
+offset_top = -2132.0
+offset_right = 1498.6641
+offset_bottom = -1858.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect38" type="ColorRect" parent="." unique_id=327608342]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1457.0
+offset_top = -2504.0
+offset_right = 1636.664
+offset_bottom = -2230.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect39" type="ColorRect" parent="." unique_id=997004811]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1460.0
+offset_top = -2275.0
+offset_right = 1639.664
+offset_bottom = -2001.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect40" type="ColorRect" parent="." unique_id=988595915]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1470.0
+offset_top = -2747.0
+offset_right = 1649.664
+offset_bottom = -2473.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect41" type="ColorRect" parent="." unique_id=1777620518]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1470.0001
+offset_top = -2985.0002
+offset_right = 1649.6641
+offset_bottom = -2711.0002
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect42" type="ColorRect" parent="." unique_id=1140205995]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1503.0
+offset_top = -3181.0002
+offset_right = 1682.664
+offset_bottom = -2907.0002
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect43" type="ColorRect" parent="." unique_id=2087805767]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1505.0001
+offset_top = -3396.0
+offset_right = 1684.6641
+offset_bottom = -3122.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect44" type="ColorRect" parent="." unique_id=1573110361]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1505.0001
+offset_top = -3396.0
+offset_right = 1684.6641
+offset_bottom = -3122.0
+rotation = 0.052993607
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect45" type="ColorRect" parent="." unique_id=283311536]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1318.9999
+offset_top = -3523.0
+offset_right = 1498.6638
+offset_bottom = -3249.0
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect46" type="ColorRect" parent="." unique_id=2098096999]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1016.9999
+offset_top = -3595.0002
+offset_right = 1196.6638
+offset_bottom = -3321.0002
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect47" type="ColorRect" parent="." unique_id=1534281627]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1162.0
+offset_top = -3600.0
+offset_right = 1341.664
+offset_bottom = -3326.0
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect48" type="ColorRect" parent="." unique_id=1615216699]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 800.0001
+offset_top = -3603.0
+offset_right = 979.6641
+offset_bottom = -3329.0
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect49" type="ColorRect" parent="." unique_id=1536003001]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 543.00006
+offset_top = -3603.0
+offset_right = 722.66406
+offset_bottom = -3329.0
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect50" type="ColorRect" parent="." unique_id=1122326635]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 324.0
+offset_top = -3611.0
+offset_right = 503.664
+offset_bottom = -3337.0
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect51" type="ColorRect" parent="." unique_id=896891629]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 71.0
+offset_top = -3578.0
+offset_right = 250.664
+offset_bottom = -3304.0
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect52" type="ColorRect" parent="." unique_id=59129249]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = -72.0
+offset_top = -2685.0002
+offset_right = 107.663994
+offset_bottom = -2411.0002
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect53" type="ColorRect" parent="." unique_id=493559498]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = -70.0
+offset_top = -2420.9998
+offset_right = 109.663994
+offset_bottom = -2146.9998
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect54" type="ColorRect" parent="." unique_id=34106382]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = -68.0
+offset_top = -2260.9998
+offset_right = 111.663994
+offset_bottom = -1986.9998
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect55" type="ColorRect" parent="." unique_id=245375929]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = -63.0
+offset_top = -1987.0002
+offset_right = 116.663994
+offset_bottom = -1713.0002
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect56" type="ColorRect" parent="." unique_id=1674329979]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = -59.99997
+offset_top = -1821.0
+offset_right = 119.664024
+offset_bottom = -1547.0
+rotation = -0.17246181
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect57" type="ColorRect" parent="." unique_id=1671352084]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = -59.99997
+offset_top = -1821.0
+offset_right = 119.664024
+offset_bottom = -1547.0
+rotation = -0.17246181
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
 [node name="ColorRect8" type="ColorRect" parent="." unique_id=1759493851]
@@ -2100,6 +2363,16 @@ offset_left = 1247.0
 offset_top = -141.0
 offset_right = 1426.664
 offset_bottom = 133.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect58" type="ColorRect" parent="." unique_id=1422860422]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1298.0
+offset_top = 216.0
+offset_right = 1477.664
+offset_bottom = 490.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
 [node name="ColorRect9" type="ColorRect" parent="." unique_id=928296011]

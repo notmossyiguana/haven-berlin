@@ -1610,12 +1610,12 @@ stretch_mode = 6
 [node name="TextureRect2" type="TextureRect" parent="." unique_id=509211498]
 show_behind_parent = true
 visibility_layer = 2
-offset_left = 217.0
-offset_top = -555.0
-offset_right = 1364.0
-offset_bottom = 100.0
+offset_left = 288.0
+offset_top = -307.0
+offset_right = 1326.0
+offset_bottom = 122.0
 texture = ExtResource("2_7mycd")
-expand_mode = 2
+expand_mode = 1
 stretch_mode = 6
 flip_h = true
 

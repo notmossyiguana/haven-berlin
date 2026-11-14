@@ -1766,6 +1766,7 @@ tile_set = SubResource("TileSet_smm7m")
 script = ExtResource("2_h2yge")
 
 [node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1695342330]
+z_index = 4096
 position = Vector2(788, 429.25)
 scale = Vector2(0.5937502, 0.57421887)
 texture = ExtResource("3_1bvp3")
@@ -1820,7 +1821,7 @@ position = Vector2(856, -4894.0005)
 position = Vector2(359, -5186.0005)
 
 [node name="Bouncy Cloud14" parent="." unique_id=409431503 instance=ExtResource("4_lquwl")]
-position = Vector2(820, -5364.0005)
+position = Vector2(871, -5369)
 
 [node name="Bouncy Cloud15" parent="." unique_id=1831292953 instance=ExtResource("4_lquwl")]
 position = Vector2(461, -5664.0005)

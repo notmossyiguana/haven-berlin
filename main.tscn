@@ -1056,7 +1056,7 @@ physics_layer_0/collision_layer = 1
 sources/0 = SubResource("TileSetAtlasSource_h2yge")
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_smm7m"]
-size = Vector2(134, 134.99998)
+size = Vector2(57, 54.499992)
 
 [node name="Node" type="Node" unique_id=1795916366]
 
@@ -1067,10 +1067,10 @@ tile_set = SubResource("TileSet_smm7m")
 [node name="Player" type="CharacterBody2D" parent="." unique_id=1715423517]
 
 [node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1695342330]
-position = Vector2(546, 404)
-scale = Vector2(1.0468749, 1.0546875)
+position = Vector2(632, 549)
+scale = Vector2(0.40625036, 0.4140626)
 texture = ExtResource("1_ig7tw")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=1666852203]
-position = Vector2(544, 403)
+position = Vector2(632.5, 549.25)
 shape = SubResource("RectangleShape2D_smm7m")

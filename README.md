@@ -1,6 +1,5 @@
 
 # Our game:
-
 <img width="1920" height="480" alt="heading haven game" src="https://github.com/user-attachments/assets/2b1040c6-57a4-4647-9f4a-7698510afe3b" />
 
 <div data-importer="image" align="center">
@@ -26,3 +25,7 @@ The movement is super easy to understand: <br>
 
 This game was made for the Hackathon Haven from Hack Club. <br>
 It was made from <a href="https://github.com/notmossyiguana">mossy</a> and from <a href="https://github.com/253-Mathilde"> 253-Mathilde </a>.
+The background music was composed in BeepBox by mossy
+
+Ensoniq Trumpet Fanfare by TheSoundLibrary on https://freesound.org/people/TheSoundLibrary/sounds/850748/
+laundry;fluff.wav by Abir19 on https://freesound.org/people/Abir19/sounds/629508/

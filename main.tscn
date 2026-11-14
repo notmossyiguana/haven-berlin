@@ -1,6 +1,7 @@
 [gd_scene format=4 uid="uid://b7btmfxxgmtju"]
 
 [ext_resource type="Texture2D" uid="uid://c4uvci0wr2v8t" path="res://images.png" id="1_0xm2m"]
+[ext_resource type="PackedScene" uid="uid://dpd4oyf8q0f2u" path="res://audio_stream_player_2d.tscn" id="1_272bh"]
 [ext_resource type="Texture2D" uid="uid://bpcpiyatvskou" path="res://stem of the tree.jpg" id="2_7mycd"]
 [ext_resource type="Script" uid="uid://lndhnyhm0s1p" path="res://player.gd" id="2_h2yge"]
 [ext_resource type="Texture2D" uid="uid://cprkavwn3iv3f" path="res://daven-idle.png" id="3_1bvp3"]
@@ -1596,6 +1597,9 @@ size = Vector2(42, 42)
 
 [node name="Node" type="Node" unique_id=1795916366]
 
+[node name="AudioStreamPlayer2D" parent="." unique_id=1613572969 instance=ExtResource("1_272bh")]
+position = Vector2(433, 472)
+
 [node name="TextureRect" type="TextureRect" parent="." unique_id=160763516]
 show_behind_parent = true
 visibility_layer = 2
@@ -1700,7 +1704,7 @@ shape = SubResource("RectangleShape2D_smm7m")
 position = Vector2(790, 433)
 
 [node name="Bouncy Cloud" parent="." unique_id=1679390177 instance=ExtResource("4_lquwl")]
-position = Vector2(433, 472)
+position = Vector2(441, 526)
 
 [node name="Bouncy Cloud2" parent="." unique_id=493421154 instance=ExtResource("4_lquwl")]
 position = Vector2(193, 194)
@@ -1719,3 +1723,5 @@ position = Vector2(222, -842)
 
 [node name="Bouncy Cloud7" parent="." unique_id=1027014277 instance=ExtResource("4_lquwl")]
 position = Vector2(684, -1054)
+
+[connection signal="finished" from="AudioStreamPlayer2D" to="AudioStreamPlayer2D" method="play"]

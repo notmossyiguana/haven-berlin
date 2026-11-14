@@ -19,6 +19,7 @@ The movement is super easy to understand: <br>
 
 ### WASD or Arrow Keys for movement
 ### Space key, W or Up Arrow to jump
+### Use P for restart
 
 <br>
 <img width="1920" height="480" alt="developer haven game" src="https://github.com/user-attachments/assets/1321ae79-bbec-4404-bce5-e08302ad71b2" />

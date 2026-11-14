@@ -1790,7 +1790,7 @@ limit_bottom = 752
 limit_smoothed = true
 
 [node name="Bouncy Cloud" parent="." unique_id=1679390177 instance=ExtResource("4_lquwl")]
-position = Vector2(463, 522)
+position = Vector2(512, 552)
 
 [node name="Bouncy Cloud2" parent="." unique_id=493421154 instance=ExtResource("4_lquwl")]
 position = Vector2(303, 186)

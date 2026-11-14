@@ -6,3 +6,9 @@ Game idea:
 
 Link to the slides: <br>
  https://drive.google.com/file/d/1bbt2VDOZMVd7H8hwsGAknGL2x7eW59PF/view?pli=1
+
+
+
+ Link to the tileset thingy : <br>
+ https://docs.godotengine.org/en/stable/tutorials/2d/using_tilesets.html
+ 

@@ -7,7 +7,6 @@
 [ext_resource type="Texture2D" uid="uid://dpqlq8wrem2gg" path="res://top of the tree.jpg" id="3_272bh"]
 [ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
 [ext_resource type="Texture2D" uid="uid://d0mlorb7y50l4" path="res://bottom of the tree.jpg" id="5_lquwl"]
-[ext_resource type="PackedScene" uid="uid://b2acyoqmke2su" path="res://static_body_2d.tscn" id="7_5vw27"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
 texture = ExtResource("1_0xm2m")
@@ -1785,9 +1784,6 @@ limit_right = 1351
 limit_bottom = 752
 limit_smoothed = true
 
-[node name="StaticBody2D" parent="Player" unique_id=1516454722 instance=ExtResource("7_5vw27")]
-position = Vector2(1112, -564)
-
 [node name="Bouncy Cloud" parent="." unique_id=1679390177 instance=ExtResource("4_lquwl")]
 position = Vector2(463, 522)
 
@@ -1802,6 +1798,9 @@ position = Vector2(321, -330)
 
 [node name="Bouncy Cloud5" parent="." unique_id=1815772693 instance=ExtResource("4_lquwl")]
 position = Vector2(606, -540)
+
+[node name="Bouncy Cloud34" parent="." unique_id=650751341 instance=ExtResource("4_lquwl")]
+position = Vector2(896, -719)
 
 [node name="Bouncy Cloud6" parent="." unique_id=2033553099 instance=ExtResource("4_lquwl")]
 position = Vector2(309, -844)

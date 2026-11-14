@@ -1734,10 +1734,151 @@ position = Vector2(250, -1938)
 position = Vector2(684, -1054)
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=1835540503]
+z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
 offset_left = 92.0
 offset_top = -137.0
 offset_right = 271.664
 offset_bottom = 137.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect2" type="ColorRect" parent="." unique_id=589116357]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 78.0
+offset_top = -403.0
+offset_right = 257.664
+offset_bottom = -129.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect3" type="ColorRect" parent="." unique_id=637635282]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 104.0
+offset_top = -660.0
+offset_right = 283.664
+offset_bottom = -386.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect4" type="ColorRect" parent="." unique_id=58483818]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 81.0
+offset_top = -857.0
+offset_right = 260.664
+offset_bottom = -583.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect5" type="ColorRect" parent="." unique_id=1036027743]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 117.0
+offset_top = -1046.0
+offset_right = 296.664
+offset_bottom = -772.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect6" type="ColorRect" parent="." unique_id=1429600832]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 130.0
+offset_top = -1308.0
+offset_right = 309.664
+offset_bottom = -1034.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect7" type="ColorRect" parent="." unique_id=128526648]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 146.0
+offset_top = -1557.0
+offset_right = 325.664
+offset_bottom = -1283.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect8" type="ColorRect" parent="." unique_id=1759493851]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1247.0
+offset_top = -141.0
+offset_right = 1426.664
+offset_bottom = 133.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect9" type="ColorRect" parent="." unique_id=928296011]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1256.0
+offset_top = -361.0
+offset_right = 1435.664
+offset_bottom = -87.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect10" type="ColorRect" parent="." unique_id=1357525118]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1262.0
+offset_top = -615.0
+offset_right = 1441.664
+offset_bottom = -341.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect11" type="ColorRect" parent="." unique_id=828262668]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1259.0
+offset_top = -863.0
+offset_right = 1438.664
+offset_bottom = -589.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect12" type="ColorRect" parent="." unique_id=850210358]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1256.0
+offset_top = -1117.0
+offset_right = 1435.664
+offset_bottom = -843.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect13" type="ColorRect" parent="." unique_id=1944905907]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1256.0
+offset_top = -1374.0
+offset_right = 1435.664
+offset_bottom = -1100.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect14" type="ColorRect" parent="." unique_id=374223994]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1259.0
+offset_top = -1619.0
+offset_right = 1438.664
+offset_bottom = -1345.0
+color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="ColorRect15" type="ColorRect" parent="." unique_id=1900731990]
+z_index = -3
+anchors_preset = -1
+anchor_right = 0.068
+offset_left = 1265.0
+offset_top = -1876.0
+offset_right = 1444.664
+offset_bottom = -1602.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)

@@ -2,6 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://d2gc2kv0c08wp" path="res://bouncy cloud.png" id="1_d6mu8"]
 [ext_resource type="Script" uid="uid://cxmmt8kgcws7u" path="res://bouncy_cloud.gd" id="1_ny1wm"]
+[ext_resource type="AudioStream" uid="uid://dex4gdrc3dgxp" path="res://fluff bounce.wav" id="3_abch2"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_iuuad"]
 size = Vector2(153.5, 13)
@@ -17,5 +18,8 @@ texture = ExtResource("1_d6mu8")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=11716145]
 position = Vector2(206, 128.99998)
 shape = SubResource("RectangleShape2D_iuuad")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="." unique_id=1640452320]
+stream = ExtResource("3_abch2")
 
 [connection signal="body_entered" from="." to="." method="_on_body_entered"]

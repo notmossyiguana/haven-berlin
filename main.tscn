@@ -1,7 +1,6 @@
 [gd_scene format=4 uid="uid://b7btmfxxgmtju"]
 
 [ext_resource type="Texture2D" uid="uid://c4uvci0wr2v8t" path="res://images.png" id="1_0xm2m"]
-[ext_resource type="Texture2D" uid="uid://bmul6xh4kt3vk" path="res://icon.svg" id="1_ig7tw"]
 [ext_resource type="Script" uid="uid://lndhnyhm0s1p" path="res://player.gd" id="2_h2yge"]
 [ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
 
@@ -1073,7 +1072,6 @@ script = ExtResource("2_h2yge")
 [node name="Sprite2D" type="Sprite2D" parent="Player" unique_id=1695342330]
 position = Vector2(788, 429.25)
 scale = Vector2(0.5937502, 0.57421887)
-texture = ExtResource("1_ig7tw")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=1666852203]
 position = Vector2(788.5, 429)

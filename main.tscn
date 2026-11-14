@@ -1805,7 +1805,7 @@ position = Vector2(309, -844)
 position = Vector2(320, -1301)
 
 [node name="Bouncy Cloud9" parent="." unique_id=566599881 instance=ExtResource("4_lquwl")]
-position = Vector2(691, -1512)
+position = Vector2(737, -1520)
 
 [node name="Bouncy Cloud10" parent="." unique_id=1369829181 instance=ExtResource("4_lquwl")]
 position = Vector2(313, -4414)
@@ -2541,6 +2541,9 @@ stretch_mode = 6
 [node name="Bouncy Cloud21" parent="." unique_id=371351877 instance=ExtResource("4_lquwl")]
 position = Vector2(842, -2132)
 
+[node name="Bouncy Cloud32" parent="." unique_id=669118104 instance=ExtResource("4_lquwl")]
+position = Vector2(412, -1831)
+
 [node name="ColorRect59" type="ColorRect" parent="." unique_id=2111845894]
 z_index = -3
 anchors_preset = -1
@@ -2653,6 +2656,9 @@ position = Vector2(474, -2942)
 
 [node name="Bouncy Cloud24" parent="." unique_id=329054400 instance=ExtResource("4_lquwl")]
 position = Vector2(398, -2460)
+
+[node name="Bouncy Cloud33" parent="." unique_id=2027495885 instance=ExtResource("4_lquwl")]
+position = Vector2(866, -2719)
 
 [node name="ColorRect67" type="ColorRect" parent="." unique_id=1753559977]
 z_index = -3
@@ -2890,6 +2896,18 @@ stretch_mode = 6
 
 [node name="Bouncy Cloud27" parent="." unique_id=2068968490 instance=ExtResource("4_lquwl")]
 position = Vector2(856, -3671)
+
+[node name="Bouncy Cloud28" parent="." unique_id=662302751 instance=ExtResource("4_lquwl")]
+position = Vector2(547, -4108)
+
+[node name="Bouncy Cloud29" parent="." unique_id=2088257207 instance=ExtResource("4_lquwl")]
+position = Vector2(873, -4535)
+
+[node name="Bouncy Cloud30" parent="." unique_id=238472526 instance=ExtResource("4_lquwl")]
+position = Vector2(399, -4711)
+
+[node name="Bouncy Cloud31" parent="." unique_id=1897126879 instance=ExtResource("4_lquwl")]
+position = Vector2(399, -4711)
 
 [node name="ColorRect82" type="ColorRect" parent="." unique_id=451431291]
 z_index = -3

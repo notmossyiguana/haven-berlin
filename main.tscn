@@ -1780,11 +1780,7 @@ shape = SubResource("RectangleShape2D_smm7m")
 position = Vector2(790, 433)
 zoom = Vector2(1.5, 1.5)
 limit_left = 385
-<<<<<<< HEAD
 limit_top = -5795
-=======
-limit_top = -3264
->>>>>>> parent of 14c9fd8 (fixing the cam)
 limit_right = 1351
 limit_bottom = 752
 limit_smoothed = true
@@ -3020,17 +3016,10 @@ position = Vector2(399, -4711)
 z_index = -3
 anchors_preset = -1
 anchor_right = 0.068
-<<<<<<< HEAD
 offset_left = 176.0
 offset_top = -3962.0
 offset_right = 355.664
 offset_bottom = -3688.0
-=======
-offset_left = 160.0
-offset_top = -3921.0
-offset_right = 339.664
-offset_bottom = -3647.0
->>>>>>> parent of 14c9fd8 (fixing the cam)
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
 
 [node name="ColorRect83" type="ColorRect" parent="." unique_id=568337520]

@@ -15,6 +15,10 @@ run/main_scene="uid://b7btmfxxgmtju"
 config/features=PackedStringArray("4.7", "Mobile")
 config/icon="res://icon.svg"
 
+[autoload]
+
+AudioStreamPlayer2d="*uid://dpd4oyf8q0f2u"
+
 [display]
 
 window/stretch/mode="canvas_items"

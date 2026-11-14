@@ -7,6 +7,8 @@
 [ext_resource type="Texture2D" uid="uid://dpqlq8wrem2gg" path="res://top of the tree.jpg" id="3_272bh"]
 [ext_resource type="PackedScene" uid="uid://o0g6o3bvb5cm" path="res://bouncy_cloud.tscn" id="4_lquwl"]
 [ext_resource type="Texture2D" uid="uid://d0mlorb7y50l4" path="res://bottom of the tree.jpg" id="5_lquwl"]
+[ext_resource type="PackedScene" uid="uid://c0ognd87jyooy" path="res://musicstopzone.tscn" id="8_kek77"]
+[ext_resource type="Script" uid="uid://bi4ng8lfdqfr" path="res://musicstopzone.gd" id="9_4c57u"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_h2yge"]
 texture = ExtResource("1_0xm2m")
@@ -1718,9 +1720,9 @@ stretch_mode = 6
 show_behind_parent = true
 visibility_layer = 2
 offset_left = 377.0
-offset_top = -4881.0005
+offset_top = -4887.0005
 offset_right = 1371.0
-offset_bottom = -4664.0005
+offset_bottom = -4670.0005
 texture = ExtResource("2_7mycd")
 expand_mode = 1
 stretch_mode = 6
@@ -3094,3 +3096,7 @@ offset_top = -3996.0
 offset_right = 1458.664
 offset_bottom = -3722.0
 color = Color(0.36078432, 0.88235295, 0.8980392, 1)
+
+[node name="Area2D" parent="." unique_id=1035102579 instance=ExtResource("8_kek77")]
+position = Vector2(605, -5617)
+script = ExtResource("9_4c57u")

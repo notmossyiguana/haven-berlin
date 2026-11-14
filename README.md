@@ -1,8 +1,9 @@
-<img width="1920" height="480" alt="heading haven game" src="https://github.com/user-attachments/assets/8755b29d-7245-4979-8ea1-63a7f9290b94" />
-<br>
+
+# Daven's Journey
 <div data-importer="image" align="center">
   <img data-importer="image" height="500" src="top of the tree.jpg"/>
 </div>
+<<<<<<< HEAD
 <br>
 <img width="1920" height="480" alt="story haven game" src="https://github.com/user-attachments/assets/ac23c0c9-eb3b-4bda-8e76-e1e4d4705fba" />
 <br>
@@ -19,7 +20,10 @@ You can explore Davens home in the end. <br>
 
 
 
+=======
+>>>>>>> parent of 51e26df (Merge branch 'main' of https://github.com/notmossyiguana/haven-berlin)
 
+Daven has fallen from their treehouse! Help them get home by jumping on the clouds and collecting coins. Break the vines by getting stronger from coins.
 
 ## Controls
 

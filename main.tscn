@@ -1698,6 +1698,11 @@ shape = SubResource("RectangleShape2D_smm7m")
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=540146785]
 position = Vector2(790, 433)
+limit_left = 217
+limit_top = 4
+limit_right = 1370
+limit_bottom = 754
+limit_smoothed = true
 
 [node name="Bouncy Cloud" parent="." unique_id=1679390177 instance=ExtResource("4_lquwl")]
 position = Vector2(433, 472)
